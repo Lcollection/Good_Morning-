@@ -73,7 +73,7 @@ def get_learn():
 # 获取宿舍
 def get_sushe():
   lis = range(640, 648, 2)
-  ans = str(random.sample(lis))
+  ans = str(random.sample(lis,1))
   return "松竹" + ans
 
 try:
