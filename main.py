@@ -123,7 +123,7 @@ data = {
   "learn":{
     "value": get_learn(),
     "color": get_random_color()
-  }，
+  },
   "sushe":{
     "value": get_sushe(),
     "color": get_random_color()
